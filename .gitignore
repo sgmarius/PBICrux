@@ -10,7 +10,7 @@
 [Ss]cripts
 pyvenv.cfg
 .venv
-.idea
+.idea§
 pip-selfcheck.json
 
 ### Python template
